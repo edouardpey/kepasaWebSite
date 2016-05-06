@@ -24,7 +24,10 @@ body {
   height: 100%;
   position: relative;
 }
-
+.navbar-brand
+{
+  font-family: 'policekepasa'
+}
 a {
   color: #6173f4;
   -webkit-transition: 0.5s;
