@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["OinAE"]); }
+
+__d("PaymentItemTypeFields",[],function a(b,c,d,e,f,g){c.__markCompiled&&c.__markCompiled();f.exports={NONE:"none",ADS_INVOICE:"ads_invoice",DONATIONS:"donations",OCULUS_CV1:"oculus_cv1",OCULUS_LAUNCH_V1:"oculus_launch_v1",OCULUS_LAUNCH_V2:"oculus_launch_v2",OZONE:"ozone",OPEN_GRAPH_PRODUCT:"open_graph_product",MESSENGER_COMMERCE:"messenger_commerce",P2P_TRANSFER:"p2p_transfer",DUMMY_FIRST_PARTY:"dummy_first_party",DUMMY_THIRD_PARTY:"dummy_third_party",GIFTS:"gifts",BILL:"bill",AIRMAIL:"airmail",EVENT_TICKETING:"event_ticketing",PAYMENT_LITE:"payment_lite",MESSENGER_API_FEE:"messenger_api_fee",PAGES_COMMERCE:"pages_commerce"};},null);

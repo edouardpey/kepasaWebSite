@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["OV58I"]); }
+
+__d('UFITypingSubscription',['FeedbackTypingSubscriptionWebGraphQLQuery','BaseGraphQLSubscription','uuid'],function a(b,c,d,e,f,g){if(c.__markCompiled)c.__markCompiled();var h=babelHelpers['extends']({},c('BaseGraphQLSubscription'),{_getTopic:function(i){return 'gqls/feedback_typing_subscribe/feedback_id_'+i;},_getQueryID:function(){return c('FeedbackTypingSubscriptionWebGraphQLQuery').getQueryID();},_getQueryParameters:function(i){return {input:JSON.stringify({client_subscription_id:c('uuid')(),feedback_id:i})};},_getSubscriptionCallName:function(){return 'feedback_typing_subscribe';}});f.exports=h;},null);
