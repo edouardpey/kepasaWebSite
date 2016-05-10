@@ -119,7 +119,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0;
 }
 #fh5co-header #navbar li a {
-  font-family: 'master_of_breakregular', Arial, sans-serif;
+  font-family: 'Source Sans Pro', Arial, sans-serif;
   color: rgba(255, 255, 255, 0.5);
   position: relative;
 }
@@ -173,7 +173,7 @@ h1, h2, h3, h4, h5, h6 {
   float: left;
   display: block;
   font-family: 'master_of_breakregular';
-  font-size: 45px;
+  font-size: 40px;
   font-weight: 500;
   padding-left: 0;
   color: #fff;
